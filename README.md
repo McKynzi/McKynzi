@@ -6,19 +6,9 @@ I'm a software developer passionate about building modern web applications and s
 
 Currently, I'm focused on building **406 Outpost**, a direct-booking platform for a Montana vacation rental near Glacier National Park. The project includes custom booking management, calendar synchronization, payment processing, and property management tools.
 
-## 🔭 Current Projects
+## 🔭 Current Project
 
 * 🏔️ **406 Outpost** – Full-stack vacation rental booking platform
-* 📅 Airbnb & VRBO calendar synchronization
-* 💳 Online booking and payment integrations
-* 📊 Property management dashboard and analytics
-
-## 🌱 Currently Learning
-
-* Advanced Node.js and Express.js
-* Database optimization with MySQL
-* Cloud deployment and server management
-* Payment processing and booking automation
 
 ## 💻 Tech Stack
 
@@ -38,31 +28,3 @@ Currently, I'm focused on building **406 Outpost**, a direct-booking platform fo
 ### Database
 
 * MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* cPanel
-* VS Code
-* Stripe
-
-## 🎯 Goals
-
-* Launch a production-ready booking platform
-* Continue growing my full-stack development skills
-* Build software that helps businesses operate more efficiently
-* Contribute to open-source projects
-
-## 📈 GitHub Stats
-
-Always learning, always building, and always improving.
-
-## 📫 Connect With Me
-
-Feel free to explore my repositories and follow along as I continue developing new projects and learning new technologies.
-
----
-
-⭐ Thanks for visiting my profile!
-
