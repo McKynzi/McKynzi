@@ -6,10 +6,6 @@ I'm a software developer passionate about building modern web applications and s
 
 Currently, I'm focused on building **406 Outpost**, a direct-booking platform for a Montana vacation rental near Glacier National Park. The project includes custom booking management, calendar synchronization, payment processing, and property management tools.
 
-## 🔭 Current Project
-
-* 🏔️ **406 Outpost** – Full-stack vacation rental booking platform
-
 ## 💻 Tech Stack
 
 ### Frontend
